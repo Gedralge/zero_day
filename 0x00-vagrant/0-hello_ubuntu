@@ -1,1 +1,1 @@
-The uname command writes to standard output the name of the operating system that your using
+When we run the command uname without any option, it just prints the core operating system name.
